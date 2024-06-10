@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Cloud-848484"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/IaC-848484"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/etc-848484"/>&nbsp;&nbsp;&nbsp;&nbsp;
