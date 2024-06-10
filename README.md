@@ -5,8 +5,6 @@
 
 <img src="https://img.shields.io/badge/Web-Backend-848484"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
 
 <img src="https://img.shields.io/badge/Cloud-848484"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;&nbsp;
